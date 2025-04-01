@@ -1,11 +1,7 @@
 import React from 'react'
 
 const page = () => {
-  return (
-	<div>
-	  profile-card
-	</div>
-  )
+  return <div>recruiter sign up</div>;
 }
 
 export default page
